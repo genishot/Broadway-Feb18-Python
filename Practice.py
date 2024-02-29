@@ -14,3 +14,4 @@ Year = int(input("Which years investment results would you like to see "))
 Timeline = Year-2024
 Compound = Power(Investment,Timeline)
 print(Compound)
+

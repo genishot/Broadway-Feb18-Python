@@ -1,0 +1,20 @@
+x = 14.5
+y = 15
+z = complex(1,3)
+print(x,y,z)
+print(type(z))
+a = input("Enter your variable value ")
+m = f'Your variable type is {type(a)}'
+
+e = f'Your variable type is {type(x)}'
+print(e)
+
+a = 102//15
+print(a)
+
+a = "3"
+b = int(a)
+print(type(b))
+in = 3+0.5
+print(in)
+
